@@ -1,3 +1,11 @@
+![Profile Views](https://komarev.com/ghpvc/?username=valbergregory&label=Visualiza%C3%A7%C3%B5es%20no%20perfil&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/valbergregory?label=Seguidores&style=social)
+
+## 📊 GitHub Stats
+
+![Valber's GitHub Stats](https://github-readme-stats.vercel.app/api?username=valbergregory&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valbergregory&layout=compact)
+
 <details>
 <summary>🇬🇧 English</summary>
 
