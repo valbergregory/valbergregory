@@ -53,7 +53,7 @@ Currently deepening technical skills in:
 </details>
 
 <details open>
-<summary>🇵🇱 Português</summary>
+<summary>BR Português</summary>
 
 ## 👋 Sobre mim
 
