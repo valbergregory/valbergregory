@@ -28,7 +28,7 @@ As the founder of the startups **PataCidadã**, **SmartMAP Educação**, **Porta
 
 * Ph.D. in Economics – UFPB
 * M.Sc. in Applied Economics – UFAL
-* Postgraduate Certificate in Digital Law – Dual Certification from PUC-Campinas and PUC Minas
+* Postgraduate Certificate in Digital Law – Dual Certification from PUC-Campinas and PUCPR
 * Currently pursuing a Postgraduate Certificate in Public Law: Constitutional, Administrative, and Tax Law – PUCRS
 * B.A. in Economics – UFAL
 * LL.B. in Law – CESMAC
@@ -95,7 +95,7 @@ Criador das startups **PataCidadã**, **SmartMAP Educação**, **PortaJus** e **
 
 * Doutor em Economia – UFPB
 * Mestre em Economia Aplicada – UFAL
-* Pós-graduado em Direito Digital – Dupla certificação pela PUC-Campinas e PUC Minas
+* Pós-graduado em Direito Digital – Dupla certificação pela PUC-Campinas e PUCPR
 * Pós-graduando em Direito Público: Constitucional, Administrativo e Tributário – PUCRS
 * Bacharel em Economia – UFAL
 * Bacharel em Direito – CESMAC
