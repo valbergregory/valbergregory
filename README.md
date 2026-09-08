@@ -16,6 +16,7 @@ I'm an **Economist**, **University Professor**, and **Judicial Analyst** with ex
 ### 🎓 Academic Background:
 - Ph.D. in Economics – UFPB
 - M.Sc. in Applied Economics – UFAL
+- Postgraduate Certificate in Digital Law (Dual Certification – PUC-Campinas and PUC Minas)
 - B.A. in Economics – UFAL
 - LL.B. in Law – CESMAC
 - Former lawyer in Civil, Administrative, and Tax Law (Brazilian Bar – OAB/AL 9788)
@@ -62,6 +63,7 @@ Sou **economista**, **professor universitário** e **analista judiciário**, com
 ### 🎓 Formação Acadêmica:
 - Doutor em Economia – UFPB
 - Mestre em Economia Aplicada – UFAL
+- Pós-graduado em Direito Digital (Dupla certificação - PUC-Campinas e PUC-MG)
 - Bacharel em Economia – UFAL
 - Bacharel em Direito – CESMAC
 - Ex-advogado nas áreas Cível, Administrativa e Tributária (OAB/AL 9788 | 2010–2014)
