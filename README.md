@@ -117,6 +117,7 @@ Criador das startups **PataCidadã**, **SmartMAP Educação**, **PortaJus** e **
 * 💡 Inovação no serviço público
 * 📉 Avaliação de impacto de políticas judiciais e institucionais
 * 🤖 Transformação digital e inteligência artificial no setor público
+* Economia Digital e Economia de Redes
 
 ### 💻 Tecnologias e Ferramentas
 
