@@ -19,7 +19,7 @@ My work combines **applied research**, **institutional innovation**, **digital t
 
 As the founder of the startups **PataCidadã**, **SmartMAP Educação**, **PortaJus**, and **LiquidaJus**, I develop digital solutions focused on social impact, education, public services, and access to justice.
 
-* 🐾 [**PataCidadã**](https://www.patacidada.com.br/) – An animal protection and welfare platform scheduled for launch on **October 4, 2026**.
+* 🐾 [**PataCidadã**](https://www.patacidada.com.br/) – An animal protection and welfare platform scheduled for launch on **October 28, 2026**.
 * 🗺️ [**SmartMAP Educação**](https://smartmap-educacao.vercel.app/) – An educational intelligence and data visualization platform participating in the **2026 Centelha Program**.
 * ⚖️ **PortaJus** *(Beta)* – A digital solution designed to guide citizens and facilitate access to justice.
 * 🧮 **LiquidaJus** *(Beta)* – A decision-support tool for judgment liquidation and judicial calculations.
@@ -86,7 +86,7 @@ Minha atuação combina **pesquisa aplicada**, **inovação institucional**, **t
 
 Criador das startups **PataCidadã**, **SmartMAP Educação**, **PortaJus** e **LiquidaJus**, desenvolvo soluções digitais voltadas ao impacto social, à educação, aos serviços públicos e ao acesso à Justiça.
 
-* 🐾 [**PataCidadã**](https://www.patacidada.com.br/) – Plataforma dedicada à proteção e ao bem-estar animal, com lançamento previsto para **4 de outubro de 2026**.
+* 🐾 [**PataCidadã**](https://www.patacidada.com.br/) – Plataforma dedicada à proteção e ao bem-estar animal, com lançamento previsto para **28 de outubro de 2026**.
 * 🗺️ [**SmartMAP Educação**](https://smartmap-educacao.vercel.app/) – Plataforma de inteligência educacional e visualização de dados, participante do **Programa Centelha 2026**.
 * ⚖️ **PortaJus** *(Beta)* – Solução digital destinada a orientar cidadãos e facilitar o acesso à Justiça.
 * 🧮 **LiquidaJus** *(Beta)* – Ferramenta de apoio à liquidação de sentenças e à elaboração de cálculos judiciais.
