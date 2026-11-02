@@ -1,142 +1,109 @@
-![Profile Views](https://komarev.com/ghpvc/?username=valbergregory\&label=Visualiza%C3%A7%C3%B5es%20no%20perfil\&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/valbergregory?label=Seguidores\&style=social)
+# Valber Gregory Barbosa Costa Bezerra Santos
 
-## 📊 GitHub Stats
+Professor da UFAL · Economista (CORECON/AL n. 972) · Analista Judiciário e Assessor Judicial no TJAL
 
-![Valber's GitHub Stats](https://github-readme-stats.vercel.app/api?username=valbergregory\&show_icons=true\&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valbergregory\&layout=compact)
+Site: https://valbergregory.github.io · [English](https://valbergregory.github.io/en/)
 
-<details>
-<summary>🇬🇧 English</summary>
+## Sobre
 
-## 👋 About Me
+Atuo na interface entre Economia, Direito, Sistemas de Informação e Administração Pública,
+desenvolvendo pesquisas empíricas e projetos aplicados baseados em dados públicos.
+Professor do Magistério Superior na Universidade Federal de Alagoas (Campus Arapiraca, Unidade
+Educacional Penedo, curso de Sistemas de Informação) e Analista Judiciário, área de Economia,
+no Tribunal de Justiça do Estado de Alagoas.
 
-I am an **economist registered with the Regional Council of Economics of Alagoas (CORECON/AL No. 972)**, a **university professor**, and a **Judicial Analyst specializing in Economics at the Court of Justice of the State of Alagoas (TJAL)**. I also currently serve as a **judicial advisor to a trial court judge in the Single Court of the Judicial District of Junqueiro, Alagoas**.
+Linhas de pesquisa: Desenvolvimento Regional e Políticas Públicas · Análise Econômica do Direito e
+Jurimetria · Inteligência Artificial, governo digital e decisão jurídica · Economia Digital e Direito
+Digital · Economia do Turismo · Economia Marítima e Portos · Economia Pesqueira.
 
-My work combines **applied research**, **institutional innovation**, **digital transformation**, and **evidence-based policymaking**.
+## Repositórios de pesquisa
 
-### 🚀 Startups and Digital Solutions
+Código, dicionários de dados e instruções de reprodução de manuscritos em elaboração. Os dados são
+públicos e oficiais; cada repositório indica as fontes, o período e as licenças. Descrições
+completas em https://valbergregory.github.io/pesquisa/.
 
-As the founder of the startups **PataCidadã**, **SmartMAP Educação**, **PortaJus**, and **LiquidaJus**, I develop digital solutions focused on social impact, education, public services, and access to justice.
+**Desenvolvimento Regional e Políticas Públicas**
 
-* 🐾 [**PataCidadã**](https://www.patacidada.com.br/) – An animal protection and welfare platform scheduled for launch on **October 28, 2026**.
-* 🗺️ [**SmartMAP Educação**](https://smartmap-educacao.vercel.app/) – An educational intelligence and data visualization platform participating in the **2026 Centelha Program**.
-* ⚖️ **PortaJus** *(Beta)* – A digital solution designed to guide citizens and facilitate access to justice.
-* 🧮 **LiquidaJus** *(Beta)* – A decision-support tool for judgment liquidation and judicial calculations.
+- [artigo-dsge-educacao](https://github.com/valbergregory/artigo-dsge-educacao) — gasto público em educação, salários regionais e dinâmica fiscal (painel das 27 UF e DSGE fiscal com capital humano).
+- [transmissao-precos-leite-brasil](https://github.com/valbergregory/transmissao-precos-leite-brasil) — transmissão espacial de preços do leite ao produtor (CEPEA/ESALQ; cointegração, VECM e TVECM).
+- [ia-produtividade-tjs-brasil](https://github.com/valbergregory/ia-produtividade-tjs-brasil) — adoção de IA e produtividade nos Tribunais de Justiça estaduais (painel CNJ).
 
-### 🎓 Academic Background
+**Análise Econômica do Direito e Jurimetria**
 
-* Ph.D. in Economics – UFPB
-* M.Sc. in Applied Economics – UFAL
-* Postgraduate Certificate in Digital Law – Dual Certification from PUC-Campinas and PUCPR
-* Currently pursuing a Postgraduate Certificate in Public Law: Constitutional, Administrative, and Tax Law – PUCRS
-* B.A. in Economics – UFAL
-* LL.B. in Law – CESMAC
-* Former attorney in Civil, Administrative, and Tax Law – Brazilian Bar Association, Alagoas Section (OAB/AL No. 9788 | 2010–2014)
+- [Pricing-Non-Pecuniary-Harm](https://github.com/valbergregory/Pricing-Non-Pecuniary-Harm) — valores de indenização por danos morais em um tribunal de apelação brasileiro.
+- [STJ-Moral-Damages-Jurimetrics](https://github.com/valbergregory/STJ-Moral-Damages-Jurimetrics) — revisão do quantum de danos morais pelo Superior Tribunal de Justiça.
+- [Geography-of-Judicial-Delay](https://github.com/valbergregory/Geography-of-Judicial-Delay) — desigualdade espacial na duração dos processos e trajetórias processuais.
+- [binding-precedents-brazil](https://github.com/valbergregory/binding-precedents-brazil) — observância e difusão de precedentes vinculantes entre tribunais.
+- [abusive-litigation-jurimetrics](https://github.com/valbergregory/abusive-litigation-jurimetrics) — padrões de litigância abusiva (STJ e DataJud), com revisão humana obrigatória.
 
-### 🧠 Technical Skills
+**Inteligência Artificial, governo digital e decisão jurídica**
 
-* 📊 Data analysis for public policy evaluation
-* 📈 Econometric modeling and applied quantitative methods
-* 👨‍🏫 Higher education teaching and technical report writing
-* ⚖️ Interdisciplinary work at the intersection of Law and Economics
-* 💡 Development of digital solutions for education, public services, and justice
+- [aisecdev-tjs-2026](https://github.com/valbergregory/aisecdev-tjs-2026) — dados de replicação sobre prontidão de segurança para IA nos Tribunais de Justiça estaduais.
 
-### 🔬 Research Areas
+**Economia Digital e Direito Digital**
 
-* 💼 Public Sector Economics
-* ⚖️ Law and Economics
-* 🏫 Economics of Education
-* 💡 Public Sector Innovation
-* 📉 Impact Evaluation of Judicial and Institutional Policies
-* 🤖 Digital Transformation and Artificial Intelligence in the Public Sector
+- [pix-geography-brazil](https://github.com/valbergregory/pix-geography-brazil) — previsão do Pix por município e reconciliação geográfica coerente (dados do Banco Central).
 
-### 💻 Technologies and Tools
+**Economia do Turismo**
 
-I am currently deepening my technical expertise in:
+- [tourism-gravity-brazil](https://github.com/valbergregory/tourism-gravity-brazil) — modelo gravitacional da demanda turística internacional pelo Brasil (distância, conectividade aérea e preços).
 
-* **Python** – Automation, data analysis, and APIs
-* **R** – Econometrics, statistical modeling, and data visualization
-* **SQL** – Data manipulation, querying, and database integration
-* Ongoing certifications in all three languages
+**Economia Marítima e Portos**
 
-### 🌱 Professional Values
+- [Port-Digitalization-Observatory](https://github.com/valbergregory/Port-Digitalization-Observatory) — observatório da transformação digital dos portos brasileiros (ANTAQ).
 
-* 🔄 Lifelong learning
-* 🤖 Ethical and responsible use of technology
-* 🌍 Knowledge production with real-world impact
-* 🏛️ Innovation in public service, education, and justice
+**Economia Pesqueira**
 
----
+- [marine-fisheries-data-cube](https://github.com/valbergregory/marine-fisheries-data-cube) — cubo de dados marinho-pesqueiro: ondas de calor, produtividade oceânica e esforço de pesca.
+- [fisheries-closures-brazil](https://github.com/valbergregory/fisheries-closures-brazil) — defesos e deslocamento do esforço de pesca no Brasil.
 
-🚀 *This profile showcases projects, research, and digital applications in applied economics, data science, education, access to justice, and public sector innovation.*
+## Projetos independentes
 
-</details>
+Iniciativas do autor fora da atuação institucional. Nenhuma delas é sistema oficial da UFAL ou do TJAL.
+Detalhes em https://valbergregory.github.io/projetos-independentes/.
 
-<details open>
-<summary>🇧🇷 Português</summary>
+- **PataCidadã** — plataforma gratuita de proteção animal; em fase final de aprimoramento para lançamento. [patacidada.com.br](https://patacidada.com.br/)
+- **SmartMap Educação** — inteligência territorial para a educação municipal; protótipo em desenvolvimento, concorrendo ao Programa Centelha. [smartmap-educacao.vercel.app](https://smartmap-educacao.vercel.app/)
+- **LiquidaJus** — liquidação de sentenças com memória de cálculo auditável; protótipo em desenvolvimento.
+- **PortaJus** — acesso à Justiça nos Juizados Especiais; protótipo em desenvolvimento.
 
-## 👋 Sobre mim
+## Formação
 
-Sou **economista (CORECON/AL nº 972)**, **professor universitário** e **analista judiciário na área de Economia do Tribunal de Justiça do Estado de Alagoas (TJAL)**. Atualmente, também atuo como **assessor judicial de magistrado de 1ª entrância na Vara de Ofício Único de Junqueiro/AL**.
+- Doutorado em Economia — Universidade Federal da Paraíba (UFPB), 2020–2023
+- Mestrado em Economia Aplicada — Universidade Federal de Alagoas (UFAL), 2012–2015
+- Especialização em Direito 4.0: Direito Digital, Proteção de Dados e Cibersegurança — PUC-Campinas, com dupla certificação em conjunto com a PUC-PR, 2025–2026
+- MBA em Poder Judiciário — Fundação Getulio Vargas (FGV), 2015–2017
+- Bacharelado em Ciências Econômicas — UFAL, 2005–2013
+- Bacharelado em Direito — Centro Universitário CESMAC, 2005–2009 (advogado entre 2010 e 2014, OAB/AL n. 9.788)
 
-Minha atuação combina **pesquisa aplicada**, **inovação institucional**, **transformação digital** e **formulação de políticas públicas baseadas em evidências**.
+## Ferramentas
 
-### 🚀 Startups e Soluções Digitais
+R (econometria, séries temporais, `targets`, `renv`) · Python (coleta de dados, APIs públicas, reprodutibilidade) · SQL (bancos de dados analíticos) · LaTeX.
 
-Criador das startups **PataCidadã**, **SmartMAP Educação**, **PortaJus** e **LiquidaJus**, desenvolvo soluções digitais voltadas ao impacto social, à educação, aos serviços públicos e ao acesso à Justiça.
+## Links
 
-* 🐾 [**PataCidadã**](https://www.patacidada.com.br/) – Plataforma dedicada à proteção e ao bem-estar animal, com lançamento previsto para **28 de outubro de 2026**.
-* 🗺️ [**SmartMAP Educação**](https://smartmap-educacao.vercel.app/) – Plataforma de inteligência educacional e visualização de dados, participante do **Programa Centelha 2026**.
-* ⚖️ **PortaJus** *(Beta)* – Solução digital destinada a orientar cidadãos e facilitar o acesso à Justiça.
-* 🧮 **LiquidaJus** *(Beta)* – Ferramenta de apoio à liquidação de sentenças e à elaboração de cálculos judiciais.
+[Site](https://valbergregory.github.io) · [Lattes](http://lattes.cnpq.br/9400489411252847) · [ORCID](https://orcid.org/0000-0003-1504-8923) · [Google Scholar](https://scholar.google.com.br/citations?user=5ncbRzQAAAAJ&hl=pt-BR) · [LinkedIn](https://www.linkedin.com/in/valber-gregory-49013744)
 
-### 🎓 Formação Acadêmica
+Contato institucional (ensino, pesquisa e extensão): valber.santos@penedo.ufal.br
 
-* Doutor em Economia – UFPB
-* Mestre em Economia Aplicada – UFAL
-* Pós-graduado em Direito Digital – Dupla certificação pela PUC-Campinas e PUCPR
-* Pós-graduando em Direito Público: Constitucional, Administrativo e Tributário – PUCRS
-* Bacharel em Economia – UFAL
-* Bacharel em Direito – CESMAC
-* Ex-advogado nas áreas Cível, Administrativa e Tributária – OAB/AL nº 9788 (2010–2014)
-
-### 🧠 Competências Técnicas
-
-* 📊 Análise de dados voltada à avaliação de políticas públicas
-* 📈 Modelagem econométrica e métodos quantitativos aplicados
-* 👨‍🏫 Docência no ensino superior e elaboração de pareceres técnicos
-* ⚖️ Atuação interdisciplinar entre Direito e Economia
-* 💡 Desenvolvimento de soluções digitais para educação, serviços públicos e Justiça
-
-### 🔬 Linhas de Pesquisa
-
-* 💼 Economia do setor público
-* ⚖️ Direito e Economia
-* 🏫 Economia da educação
-* 💡 Inovação no serviço público
-* 📉 Avaliação de impacto de políticas judiciais e institucionais
-* 🤖 Transformação digital e inteligência artificial no setor público
-* Economia Digital e Economia de Redes
-
-### 💻 Tecnologias e Ferramentas
-
-Tenho aprofundado minha formação técnica em:
-
-* **Python** – Automação, análise de dados e APIs
-* **R** – Econometria, modelagem estatística e visualização de dados
-* **SQL** – Manipulação, consulta e integração de bases de dados
-* Certificações em andamento nas três linguagens
-
-### 🌱 Valores Profissionais
-
-* 🔄 Aprendizado contínuo
-* 🤖 Uso ético e responsável da tecnologia
-* 🌍 Produção de conhecimento com impacto real
-* 🏛️ Inovação no serviço público, na educação e na Justiça
+Site pessoal de natureza acadêmica: o conteúdo não constitui manifestação, serviço ou chancela da UFAL ou do TJAL.
 
 ---
 
-🚀 *Este perfil apresenta projetos, pesquisas e aplicações digitais em economia aplicada, ciência de dados, educação, acesso à Justiça e inovação no setor público.*
+## English
 
-</details>
+Professor at the Federal University of Alagoas (UFAL, Information Systems programme, Penedo), economist
+and Judicial Analyst (Economics) and Judicial Adviser at the Court of Justice of Alagoas (TJAL).
+I work at the interface between Economics, Law, Information Systems and Public Administration,
+developing empirical research and applied projects based on public data.
+
+Research lines: Regional Development and Public Policy · Economic Analysis of Law and Jurimetrics ·
+Artificial Intelligence, digital government and legal decision-making · Digital Economy and Digital Law ·
+Tourism Economics · Maritime Economics and Ports · Fisheries Economics.
+
+The research repositories above hold code, data dictionaries and reproduction instructions for
+manuscripts in progress, built on public official data. Full descriptions, in English, at
+https://valbergregory.github.io/en/research/.
+
+Independent projects (PataCidadã, SmartMap Educação, LiquidaJus, PortaJus) are the author's own
+initiatives and are not official systems of UFAL or TJAL: https://valbergregory.github.io/en/independent-projects/.
