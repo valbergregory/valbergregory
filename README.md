@@ -30,9 +30,9 @@ completas em https://valbergregory.github.io/pesquisa/.
 
 **Análise Econômica do Direito e Jurimetria**
 
-- [Pricing-Non-Pecuniary-Harm](https://github.com/valbergregory/Pricing-Non-Pecuniary-Harm) — valores de indenização por danos morais em um tribunal de apelação brasileiro.
-- [STJ-Moral-Damages-Jurimetrics](https://github.com/valbergregory/STJ-Moral-Damages-Jurimetrics) — revisão do quantum de danos morais pelo Superior Tribunal de Justiça.
-- [Geography-of-Judicial-Delay](https://github.com/valbergregory/Geography-of-Judicial-Delay) — desigualdade espacial na duração dos processos e trajetórias processuais.
+- [pricing-non-pecuniary-harm](https://github.com/valbergregory/pricing-non-pecuniary-harm) — valores de indenização por danos morais em um tribunal de apelação brasileiro.
+- [stj-moral-damages-jurimetrics](https://github.com/valbergregory/stj-moral-damages-jurimetrics) — revisão do quantum de danos morais pelo Superior Tribunal de Justiça.
+- [geography-of-judicial-delay](https://github.com/valbergregory/geography-of-judicial-delay) — desigualdade espacial na duração dos processos e trajetórias processuais.
 - [binding-precedents-brazil](https://github.com/valbergregory/binding-precedents-brazil) — observância e difusão de precedentes vinculantes entre tribunais.
 - [abusive-litigation-jurimetrics](https://github.com/valbergregory/abusive-litigation-jurimetrics) — padrões de litigância abusiva (STJ e DataJud), com revisão humana obrigatória.
 
@@ -50,7 +50,7 @@ completas em https://valbergregory.github.io/pesquisa/.
 
 **Economia Marítima e Portos**
 
-- [Port-Digitalization-Observatory](https://github.com/valbergregory/Port-Digitalization-Observatory) — observatório da transformação digital dos portos brasileiros (ANTAQ).
+- [port-digitalization-observatory](https://github.com/valbergregory/port-digitalization-observatory) — observatório da transformação digital dos portos brasileiros (ANTAQ).
 
 **Economia Pesqueira**
 
